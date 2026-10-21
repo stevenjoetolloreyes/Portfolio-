@@ -65,7 +65,7 @@
       "code": "",
       "demo": "https://smmsocialpulse.shop",
       "description": "Social media services platform with ordering, notifications, service analytics, admin tools, and a responsive interface.",
-      "image": "images/project-smmsocialpulse.jpg",
+      "image": "project-smmsocialpulse.jpg",
       "tech": [
         "PHP",
         "MySQL",
@@ -77,7 +77,7 @@
       "code": "",
       "demo": "https://skwelago-4f5a0.web.app",
       "description": "Northern Philippines commute and student app: jeepney/bus trip planner with fare calculator (LTFRB rates), 9,861-barangay search, live GPS navigation, class schedules, tasks, allowance tracker, reviewers and marketplace. Built as a Firebase PWA, targeting Google Play in December 2026.",
-      "image": "images/project-skwelago.jpg",
+      "image": "project-skwelago.jpg",
       "tech": [
         "JavaScript",
         "Firebase",
@@ -90,7 +90,7 @@
       "code": "",
       "demo": "",
       "description": "AI photo enhancer website: upload a normal photo and enhance it to HD / HD+ / 4K / Ultra HD with a before-after slider. Wink Studio-style dark dashboard with an on-device enhance fallback and an optional Replicate Real-ESRGAN cloud backend.",
-      "image": "images/project-picsmooth.jpg",
+      "image": "project-picsmooth.jpg",
       "tech": [
         "JavaScript",
         "Replicate API",
@@ -102,7 +102,7 @@
       "code": "",
       "demo": "https://barangay-management-system-app.netlify.app",
       "description": "Complete barangay management system: login with OTP, dashboard, resident records, officials, blotter, calendar, printable certificates, business permits, budgeting with purpose tracking, assembly records, and reports. Built in two versions — PHP 8 + MySQL for hosting, and a static Netlify version. Live demo login: admin@barangay.local / password123",
-      "image": "images/project-barangay.jpg",
+      "image": "project-barangay.jpg",
       "tech": [
         "PHP",
         "MySQL",
@@ -115,7 +115,7 @@
       "code": "",
       "demo": "",
       "description": "Classroom attendance dashboard for tracking student presence, rosters, and day-to-day classroom monitoring.",
-      "image": "images/project-attendance.jpg",
+      "image": "project-attendance.jpg",
       "tech": [
         "HTML",
         "CSS",
@@ -127,7 +127,7 @@
       "code": "",
       "demo": "",
       "description": "Web hosting company website with real multi-page navigation: home, pricing, features, about and contact, domain search, hosting plans and a client-area style flow — every button does a real action, no dead links.",
-      "image": "images/project-stevenhost.jpg",
+      "image": "project-stevenhost.jpg",
       "tech": [
         "HTML",
         "CSS",
@@ -139,7 +139,7 @@
       "code": "",
       "demo": "",
       "description": "Minecraft Bedrock add-on: altar pieces, statues with marble and gold pedestals, and detailed sanctuary elements.",
-      "image": "images/project-altar.jpg",
+      "image": "project-altar.jpg",
       "tech": [
         "Minecraft Bedrock",
         "JSON"
@@ -148,7 +148,7 @@
     }
   ],
   "site": {
-    "avatar": "images/avatar.jpg",
+    "avatar": "avatar.jpg",
     "email": "stevenjoereyes0625@gmail.com",
     "github": "stevenjoereyes",
     "hello": "HELLO WORLD!",
